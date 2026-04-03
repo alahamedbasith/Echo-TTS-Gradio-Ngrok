@@ -21,7 +21,7 @@ A clean and reliable Google Colab notebook for running **Echo-TTS** with Gradio 
 
 ### Created By
 
-**Al Ahamed**  
+**Ahamed Basith**  
 *(Colab Notebook Setup & Ngrok Integration)*
 
 ### Usage
@@ -50,7 +50,7 @@ A clean and reliable Google Colab notebook for running **Echo-TTS** with Gradio 
 - Model & Research: Jordan Darefsky
 - Hugging Face Repository: [jordand/echo-tts-base](https://huggingface.co/jordand/echo-tts-base)
 - Original Code: [jordandare/echo-tts](https://github.com/jordandare/echo-tts)
-- Colab Notebook: Al Ahamed
+- Colab Notebook: Ahamed Basith
 
 ---
 
